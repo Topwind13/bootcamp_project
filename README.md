@@ -28,13 +28,13 @@ Completed the 4-month intensive program with various projects and homework assig
   - 
 --> 
 ## Intro to Python Programming
-  - [Rock Paper Scissor in Python](https://colab.research.google.com/drive/1w3Jk-cAhHJ7oFXPuLd-tYVfcY5vbavqp) - A `Python-based`, interactive rock-paper-scissors game created using `Google Colab`.
+  - [Rock Paper Scissor in Python](https://colab.research.google.com/drive/1w3Jk-cAhHJ7oFXPuLd-tYVfcY5vbavqp) - create a `Python-based`, interactive rock-paper-scissors game created using `Google Colab`.
   - [ATM OOP](https://colab.research.google.com/drive/1hYOZdaACunZ-zIjNg0KenZWyqvab2REe) - create an ATM class, to understand to concept of `Object-Oriented Programming`, with at least 5 methods as ATM functions to interact with users in `Google Colab`.
 <!-- 
 ## Essential Python for Data Analyst
   - 
 --> 
 ## Dashboard
-  - [Superstore Sales Dashboard](https://lookerstudio.google.com/u/0/reporting/5a98f293-f66d-444b-a79d-14232aacef2c/page/8IMED/edit) - Create a sales visual reports in `Looker Studio` using Superstore Sales public dataset provided by Tableau Public.
-  - [Superstore Sales Dashboard](https://public.tableau.com/app/profile/pongsakorn.tikapichart/viz/SuperstoreSalesDashboard_16754043329150/SalesDashboard) - Create a sales performance visuals in `Tableau` using Superstore Sales public dataset provided by Tableau Public.
+  - [Superstore Sales Dashboard](https://lookerstudio.google.com/u/0/reporting/5a98f293-f66d-444b-a79d-14232aacef2c/page/8IMED/edit) - create a sales visual reports in `Looker Studio` using Superstore Sales public dataset provided by Tableau Public.
+  - [Superstore Sales Dashboard](https://public.tableau.com/app/profile/pongsakorn.tikapichart/viz/SuperstoreSalesDashboard_16754043329150/SalesDashboard) - create a sales performance visuals in `Tableau` using Superstore Sales public dataset provided by Tableau Public.
 <br>

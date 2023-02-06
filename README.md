@@ -20,7 +20,7 @@ Completed the 4-month intensive program with various projects and homework assig
   - 
 --> 
 ## Data Visualization in R
-  - [Diamond data visualization]() - create 5 charts for data exploration and visualization with R & ggplot using diamond dataset.
+  - [Diamond data visualization](/data_viz) - create 5 charts for data exploration and visualization with R & ggplot using diamond dataset.
 <!-- 
 ## Statistics
   - 

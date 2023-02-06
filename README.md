@@ -27,7 +27,7 @@ Completed the 4-month intensive program with various projects and homework assig
 ## Basic Machine Learning in R
   - 
 --> 
-## Intro to Python Programming
+## Python Programming
   - [Rock Paper Scissor in Python](https://colab.research.google.com/drive/1w3Jk-cAhHJ7oFXPuLd-tYVfcY5vbavqp) - create a `Python-based`, interactive rock-paper-scissors game created using `Google Colab`.
   - [ATM OOP](https://colab.research.google.com/drive/1hYOZdaACunZ-zIjNg0KenZWyqvab2REe) - create an ATM class, to understand to concept of `Object-Oriented Programming`, with at least 5 methods as ATM functions to interact with users in `Google Colab`.
 <!-- 
